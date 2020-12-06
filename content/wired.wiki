@@ -1,0 +1,8 @@
+Title: Wired
+Created: 1996-04-19
+Updated: 2020-12-05
+=== markdown ===
+- [drastik.org](http://drastik.org) - "Dont you know? IRC is just bouncers."
+- [eq.ed1.club](https://eq.ed1.club) - "I don't plan on ever posting any
+    nonsense on my website."
+- [verisimilitudes.net](http://verisimilitudes.net) - "I joke, somewhat."

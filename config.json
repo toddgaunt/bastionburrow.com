@@ -1,0 +1,11 @@
+{
+	"name": "Todd Gaunt",
+	"description": "The personal website of Todd Gaunt",
+
+	"pinned": {"About": "about", "Wired": "wired"},
+
+	"content_path": "content",
+	"static_path": "static",
+
+	"default_style": "warm"
+}
