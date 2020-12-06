@@ -1,4 +1,4 @@
-Title: C Style Guide
+Title: C style guide
 Created: 2019-04-20
 Updated: 2020-11-04
 Tag: C
