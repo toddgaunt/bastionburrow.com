@@ -1,7 +1,6 @@
 /* Standard Elements */
 
 body {
-	margin: 0;
   font-size: 1em;
 	font-family: serif;
 	font-weight: lighter;
@@ -11,7 +10,7 @@ body {
 
 /* IDs */
 
-#site-header {
+#site-navigation {
 	text-align: center;
 }
 
