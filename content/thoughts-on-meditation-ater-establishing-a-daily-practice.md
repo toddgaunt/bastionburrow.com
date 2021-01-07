@@ -14,8 +14,8 @@ that I watched as a kid left me impressed with eastern discipline and
 meditation especially.
 
 At the same time there are charlatans that play on these exaggerations of
-meditation that are used in media. People are fooled into believing meditation
-will cure their cancer or give them the ability to literally fly or have super
+meditation that are portrayed in media. People are fooled into believing
+meditation will cure their cancer or give them the ability to fly or have super
 strength. Some claim it is miracle solution to all psychological and medical
 issues that crop up in life or that it is the key to wealth and success.  All
 of these miss the point of meditation entirely. They stem from a kernel of
@@ -56,7 +56,6 @@ and I can only afford X minutes of meditation at maximum. I will set a timer to
 make sure I don't meditate too long, but it is not my goal to reach that time.
 
 These past two months have been an interesting and beneficial experiment. While
-sitting around for 15-20 minutes each morning once seemed impossibly
-boring to me, now I look forward to it each morning and it is a great
-excuse to get out of bed since it isn't physically demanding and wakes me
-up the right way.
+sitting around for 15-20 minutes each morning once seemed impossibly boring to
+me, now I look forward to it each morning and it is a great excuse to get out
+of bed since it isn't physically demanding and wakes me up the right way.
