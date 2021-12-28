@@ -1,11 +1,13 @@
 {
-	"name": "Todd Gaunt",
-	"description": "The personal website of Todd Gaunt",
-
-	"pinned": {"About": "about", "Wired": "wired"},
-
-	"content_path": "content",
-	"static_path": "static",
-
-	"default_style": "warm"
+    "router": {
+        "name": "Bastion Burrow",
+        "description": "Todd Gaunt's Digital Bastion",
+        "style": "light",
+        "pinned": {"About": "about", "Wired": "wired"}
+    },
+    "network": {
+        "port": 4430,
+        "tls-cert": "/etc/letsencrypt/live/www.bastionburrow.com/fullchain.pem",
+        "tls-key":  "/etc/letsencrypt/live/www.bastionburrow.com/privkey.pem"
+    }
 }

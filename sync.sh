@@ -1,1 +1,1 @@
-rsync -azvuP ../www.toddgaunt.com/ www.toddgaunt.com:~/www.toddgaunt.com/
+rsync -azvuP . www@bastionburrow.com:~/www.bastionburrow.com
