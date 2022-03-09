@@ -1,17 +1,18 @@
 Title: Thoughts on meditation after establishing a daily practice
 Created: 2021-01-07
 Updated: 2021-01-07
+Updated: 2022-03-09
 Tag: Mindfulness
 Tag: Meditation
 === markdown ===
-Meditation used to seem both really cool and really lame to me. In movies and
-books it is used by martial artists and monks to hone their senses to
-superhuman levels and achieve a state of metal supremacy. It seemed that with
-enough meditation these fictional characters could overcome impossible odds
-with willpower alone. Rock Lee from Naruto, Aang from Avatar: The Last
-Airbender, and the numerous protagonists from the Chinese martial arts movies
-that I watched as a kid left me impressed with eastern discipline and
-meditation especially.
+Meditation used to seem both really cool yet silly to me. In movies and books
+it is used by martial artists and monks to hone their senses to superhuman
+levels and achieve a state of metal supremacy. It seemed that with enough
+meditation these fictional characters could overcome impossible odds with
+willpower alone. Rock Lee from Naruto, Aang from Avatar: The Last Airbender,
+and the numerous protagonists from the Chinese martial arts movies that I
+watched as a kid left me impressed with eastern discipline and meditation
+especially. It made me want to be able to be that strong too.
 
 At the same time there are charlatans that play on these exaggerations of
 meditation that are portrayed in media. People are fooled into believing
@@ -19,19 +20,18 @@ meditation will cure their cancer or give them the ability to fly or have super
 strength. Some claim it is miracle solution to all psychological and medical
 issues that crop up in life or that it is the key to wealth and success.  All
 of these miss the point of meditation entirely. They stem from a kernel of
-truth that meditation is taught to have by its practitioners. It can help
-anxiety, it can make you feel like you are flying (in your mind), or give you
-motivation to be strong and disciplined, but it isn't a panacea by any stretch
-of the imagination.
+truth: It can help anxiety, let you feel relaxed, and it _can_ even make you
+feel like you are flying if you get in the right headspace, but it isn't a
+panacea by any stretch of the imagination.
 
-While meditation isn't a cure-all, I have been noticing some substantial
-effects during the act itself and some minor day-to-day effects as well. After
-keeping up an almost daily practice now for two months since November last year
-I feel calmer, more relaxed, and perceptive. My day to day anxieties are easier
-to deal with. Patience comes more easily to me now and letting go of worries
-rather ruminating happens more often.
+While meditation can't give me superpowers, I have been noticing some
+substantial effects during the act itself and some minor day-to-day effects as
+well. After keeping up an almost daily practice now for two months since
+November last year I feel calmer, more relaxed, and more perceptive. My day to
+day anxieties seem easier to deal with. Patience comes more easily to me now
+and letting go of worries rather ruminating happens more easily.
 
-For my practice I've been using Samatha meditation that is practiced by many
+For my practice I've been using Samatha meditation that is practiced by
 Buddhist monks. This technique is where the meditator focuses on his breath and
 the sensations of his breath alone. As other thoughts, emotions, or sensations
 arise naturally the practitioner acknowledges whatever arises and brings focus
