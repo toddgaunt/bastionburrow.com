@@ -1,12 +1,13 @@
 {
 	"router": {
-		"name": "BastionBurrow",
+		"name": "Bastion Burrow",
 		"description": "Todd Gaunt's Digital Bastion",
 		"style": "light",
 		"pinned": {
 			"About": "about",
 			"Wired": "wired"
-		}
+		},
+		"scan_interval": 60
 	},
 	"network": {
 		"port": 4430,
