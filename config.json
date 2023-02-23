@@ -1,9 +1,19 @@
 {
-	"router": {
-		"name": "Bastion Burrow",
-		"description": "Todd Gaunt's Digital Bastion",
+	"content": {
+		"name": "Home",
+		"description": "A little corner of the internet",
 		"style": "light",
 		"scan_interval": 60
+	},
+	"credentials": {
+		"username": {
+			"location": "env",
+			"value": "BASTION_USERNAME"
+		},
+		"password": {
+			"location": "env",
+			"value": "BASTION_PASSWORD"
+		}
 	},
 	"network": {
 		"port": 4430,
