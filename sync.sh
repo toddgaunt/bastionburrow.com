@@ -1,1 +1,1 @@
-rsync -azvuP . www@bastionburrow.com:~/www.bastionburrow.com --delete
+rsync --exclude .git -azvuP . www@toddgaunt.com:~/www.toddgaunt.com --delete
