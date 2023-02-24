@@ -1,4 +1,4 @@
-# www.bastionburrow.com
+# www.toddgaunt.com
 
 This is my personal website. It uses the web-server `bastion`
 (github.com/toddgaunt/bastion). It can be run by downloading
