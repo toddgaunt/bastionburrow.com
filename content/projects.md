@@ -21,7 +21,7 @@ documentation.
     Go version 1.18.
 
 
-- [Dotfiles]([https://github.com/toddgaunt/dotfiles)
+- [Dotfiles](https://github.com/toddgaunt/dotfiles)
 
     My configuration files for software I use. The most configured tool I use
     is  of [Neovim](https://neovim.io/). It is a fantastic text-editor, and I
