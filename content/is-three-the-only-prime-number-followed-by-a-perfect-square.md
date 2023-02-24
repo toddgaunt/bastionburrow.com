@@ -35,7 +35,7 @@ Proof:
 
 	b. When $z = 2$ then $z - 1 = 2 - 1 = 1$ and $p = 3$
 
-	c. Using induction we can say that when $n > 2 \land n \in \mathbb{N}$ then $z = n + 1$ then $z - 1 = n + 1 - 1 = n$ and $p = n^2 + 1$
+	c. Using induction we can say that when $n > 2$ and $n \in \mathbb{N}$ when $z = n + 1$ then $z - 1 = n + 1 - 1 = n$ and $p = n^2 + 1$
 
 3. Show that $z + 1 > 1 \iff p > 3$
 
