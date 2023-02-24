@@ -10,6 +10,7 @@ articles, artwork, programs, or anything else I add to it. My main interests
 are hiking and camping, programming and fitness.
 
 My Favorite Books:
+
 - Walden, by Henry David Thoreau
 - Heart of Darkness, by Joseph Conrad
 - Do Androids Dream of Electric Sheep?, by Philip K. Dick
