@@ -46,9 +46,9 @@ Proof:
 
 	Since both $z + 1 > 1$ and $z - 1 > 1$ then
 
-	a. When $z + 1 = p$, $(z + 1)(z - 1) >= 2p$
+	a. When $z + 1 = p$, $(z + 1)(z - 1) \ge 2p$
 
-	b. When $z - 1 = p$, $(z + 1)(z - 1) >= 2p$
+	b. When $z - 1 = p$, $(z + 1)(z - 1) \ge 2p$
 
 5. Since it can be shown that neither $(z + 1)$ or $(z - 1)$ are $p$ or $1$,
    this violates the definition of a prime number. A prime number only has two
