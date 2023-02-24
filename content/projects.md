@@ -27,5 +27,5 @@ documentation.
     is  of [Neovim](https://neovim.io/). It is a fantastic text-editor, and I
     find the support for Lua as a scripting language one of my favorite things
     about it. It is much easier to extend it myself compared to
-    [Vim](https://www.vim.org/) which at the time I switched only supported
+    [Vim](https://www.vim.org/) which, at the time I switched, only supported
     Vimscript, which I never had the desire to invest any of my time to learn.
