@@ -12,5 +12,3 @@ perceive us as a big and weird looking cat?
 I think the answer to this lies in another question: When we kiss our cats, talk
 to them, and play with them as if they are a valuable companion in our lives, do
 we view them as small and weird looking humans?
-
-🐱 = 🧍?
