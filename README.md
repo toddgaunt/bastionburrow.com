@@ -5,10 +5,10 @@ This is my personal website. It uses the web-server `bastion`
 and installing the `bastion` webserver and running it on this
 directory.
 
-## Current Deployments
-The primary deployment is currently hosted on a Fedora
-Digital Ocean droplet. This costs around $5 a month and
-the scripts in this folder are for managing that droplet.
+## Deployment Details
+The primary deployment is currently hosted on a Fedora Digital Ocean droplet.
+This costs around $5 a month and the scripts in this folder are for managing
+that droplet.
 
 - iptables.sh: configures the firewall for the droplet to allow for port 443 to
   forward to 4443 which the webserver runs on by default
