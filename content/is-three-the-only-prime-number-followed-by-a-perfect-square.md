@@ -1,6 +1,6 @@
 Title: Is Three the Only Prime Number Followed by a Perfect Square?
-Created: 2023-02-23
-Updated: 2023-02-23
+Created: 2023-02-24
+Updated: 2023-02-24
 Tag: Math
 Tag: Proofs
 === markdown ===
