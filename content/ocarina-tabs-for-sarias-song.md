@@ -1,4 +1,4 @@
-Title: Ocarina tabs for Saria's song
+Title: Ocarina Tabs for Saria's Song
 Author: Todd Gaunt
 Created: 2018-12-08
 Updated: 2019-02-25

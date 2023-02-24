@@ -1,4 +1,4 @@
-Title: Hatsune Miku: Project DIVA Mega Mix review
+Title: Hatsune Miku: Project DIVA Mega Mix Review
 Created: 2020-11-28
 Updated: 2020-11-28
 Tag: Nintendo Switch

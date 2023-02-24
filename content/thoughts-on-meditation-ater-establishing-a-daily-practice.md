@@ -1,4 +1,4 @@
-Title: Thoughts on meditation after establishing a daily practice
+Title: Thoughts on Meditation After Establishing a Daily Practice
 Created: 2021-01-07
 Updated: 2021-01-07
 Updated: 2022-03-09

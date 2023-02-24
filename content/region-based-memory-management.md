@@ -1,4 +1,4 @@
-Title: Region based memory management
+Title: Region Based Memory Management
 Author: Todd Gaunt
 Created: 2019-03-10
 Updated: 2019-04-25

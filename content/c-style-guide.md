@@ -1,4 +1,4 @@
-Title: C style guide
+Title: C Style Guide
 Created: 2019-04-20
 Updated: 2020-11-04
 Tag: C
@@ -7,7 +7,7 @@ Tag: Guide
 Tag: Programming
 === markdown ===
 # Notice
-This is a modification of the style guide provided by suckless.org.
+This is a modification of the style guide provided by [suckless.org].
 
 # File Layout
 - Comment with LICENSE
