@@ -5,7 +5,8 @@
 		"style": "light",
 		"scan_interval": 60
 	},
-	"credentials": {
+	"authentication": {
+		"disabled": true,
 		"username": {
 			"location": "env",
 			"value": "BASTION_USERNAME"
