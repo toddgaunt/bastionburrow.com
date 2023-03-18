@@ -26,7 +26,7 @@ documentation.
     My configuration files for software I use. The most configured tool I use
     is [Neovim](https://neovim.io/). It is a fantastic text-editor, and I find
     the support for Lua as a scripting language one of my favorite things about
-    it. Compared to Vimscript writing editor extensions myself is easier and
+    it. When compared to Vimscript, writing editor extensions is easier and
     more enjoyable in Lua. Since [Vim](https://www.vim.org/) only supported
-    Vimscript when I used it, I never ended up exploring editor extension basic
-    configuration.
+    Vimscript when I used it, I never ended up exploring editor extension
+    beyond basic configuration.
