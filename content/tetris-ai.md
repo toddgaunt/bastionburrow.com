@@ -12,7 +12,7 @@ Tag: Video Game
 In order to write an efficient AI for Hidamari, my implementation of Tetris,
 first a representation of the game state that used very little memory had to be
 devised. Minimizing the size of the game state is crucial for state-space
-searches. A naive representation of a tetris game state would be a 12x22 grid
+searches. A naive representation of a Tetris game state would be a 12x22 grid
 of bytes, each byte representing a different color block. While this isn't
 excessive, only requiring 264 bytes total, it can be done better. Since colors
 of the blocks don't matter for gameplay, really only one bit is needed to
@@ -44,8 +44,8 @@ basic representation from 264 bytes to 44 bytes. This size reduction is
 beneficial for state-space searches that will be performed by the AI. Another
 benefit to switching to a bitboard representation is the simplification of the
 operations needed to be performed on the board to detect collision and perform
-piece movement. Collisions can be detected by ANDing pieces with the board, and
-movement by ORing, both of which are fast bit-wise instructions.
+piece movement. Collisions can be detected by AND-ing pieces with the board, and
+movement by OR-ing, both of which are fast bit-wise instructions.
 
 One downside to representing the game state this way is that it necessitates
 additional layers of information to store colors and textures of the tiles on
@@ -168,6 +168,6 @@ duration of the process was simply refining the particles to converge.
 
 # Final Paper #
 
-This post was made using work I did for my AI class at UNH The paper can be
+This post was made using work I did for my AI class at UNH. The paper can be
 downloaded and read [here](.static/tetris/paper.pdf). Hope you enjoy reading
 it!
