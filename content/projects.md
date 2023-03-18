@@ -24,8 +24,9 @@ documentation.
 - [Dotfiles](https://github.com/toddgaunt/dotfiles)
 
     My configuration files for software I use. The most configured tool I use
-    is  of [Neovim](https://neovim.io/). It is a fantastic text-editor, and I
-    find the support for Lua as a scripting language one of my favorite things
-    about it. It is much easier to extend it myself compared to
-    [Vim](https://www.vim.org/) which, at the time I switched, only supported
-    Vimscript, which I never had the desire to invest any of my time to learn.
+    is [Neovim](https://neovim.io/). It is a fantastic text-editor, and I find
+    the support for Lua as a scripting language one of my favorite things about
+    it. Compared to Vimscript writing editor extensions myself is easier and
+    more enjoyable in Lua. Since [Vim](https://www.vim.org/) only supported
+    Vimscript when I used it, I never ended up exploring editor extension basic
+    configuration.
