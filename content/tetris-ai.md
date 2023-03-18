@@ -2,6 +2,7 @@ Title: Tetris AI
 Created: 2018-04-17
 Updated: 2020-12-05
 Updated: 2022-03-09
+Updated: 2023-03-18
 Tag: AI
 Tag: Programming
 Tag: Video Game
@@ -167,5 +168,6 @@ duration of the process was simply refining the particles to converge.
 
 # Final Paper #
 
-This post was made using work I did for my formal paper I wrote for my AI class at UNH
-The paper can be downloaded and read [here](.static/tetris/paper.pdf). Hope you enjoy reading it!
+This post was made using work I did for my AI class at UNH The paper can be
+downloaded and read [here](.static/tetris/paper.pdf). Hope you enjoy reading
+it!
