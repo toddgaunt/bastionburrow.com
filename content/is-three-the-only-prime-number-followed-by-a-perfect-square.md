@@ -1,11 +1,12 @@
 Title: Is Three the Only Prime Number Followed by a Perfect Square?
 Created: 2023-02-24
 Updated: 2023-02-24
+Updated: 2023-06-16
 Tag: Math
 Tag: Proofs
 === markdown ===
 
-One of my friend's recently posed this question for me to solve after I had
+A friend of mine recently posed a question for me to solve after I had
 mentioned to him that I had been wanting to get back into mathematics: Can you
 show that 3 is the only prime number followed by a perfect square? A prime
 number being an integer with only two factors, one and itself. A perfect square
