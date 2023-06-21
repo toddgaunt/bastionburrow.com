@@ -54,10 +54,10 @@ and most likely early April, are the perfect times of year to visit Yosemite
 and drive through the valley since there are fewer people than during the peak
 of the season. I recommend getting there early, and to enter
 the park by at least 8:00am, though the earlier the better. I purchased an
-"America the Beautiful" pass that will last until March of next year for 💲80
+"America the Beautiful" pass that will last until March of next year for $80
 that allows me unlimited entry and exit to Yosemite and numerous other national
 parks throughout the country. Purchasing this pass is the best option even if one
 plans on only visiting just Yosemite multiple times throughout the year, as
-the entry fee for Yosemite alone is 💲35. While I'd rather there be no entry
+the entry fee for Yosemite alone is $35. While I'd rather there be no entry
 fee, as long as the money is being put to use by protecting these lands from
 private development, and the fee is kept affordable, then it is worth paying.
