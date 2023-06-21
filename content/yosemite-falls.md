@@ -1,6 +1,7 @@
 Title: Yosemite Falls
 Created: 2021-03-27
 Updated: 2021-10-23
+Updated: 2023-06-20
 Tag: Wilderness
 Tag: Nature
 Tag: National Forests
@@ -48,15 +49,15 @@ anything quite like it.
 
 [picture of snowfall](/.static/yosemite-snowfall.jpg)
 
-At the end of the day the hike was worth it, as most hikes are. Late March,
+The hike was absolutely worthwhile, as most hikes are. Late March,
 and most likely early April, are the perfect times of year to visit Yosemite
 and drive through the valley since there are fewer people than during the peak
 of the season. I recommend getting there early, and to enter
 the park by at least 8:00am, though the earlier the better. I purchased an
-"America the Beautiful" pass that will last until March of next year for $80
+"America the Beautiful" pass that will last until March of next year for 💲80
 that allows me unlimited entry and exit to Yosemite and numerous other national
 parks throughout the country. Purchasing this pass is the best option even if one
-plans on visiting just Yosemite alone multiple times throughout the year, as
-the entry fee for Yosemite alone is $35. While I'd rather there be no entry
+plans on only visiting just Yosemite multiple times throughout the year, as
+the entry fee for Yosemite alone is 💲35. While I'd rather there be no entry
 fee, as long as the money is being put to use by protecting these lands from
-private development and the fee kept affordable then it is worth paying.
+private development, and the fee is kept affordable, then it is worth paying.
