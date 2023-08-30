@@ -2,6 +2,7 @@ Title: Is Three the Only Prime Number Followed by a Perfect Square?
 Created: 2023-02-24
 Updated: 2023-02-24
 Updated: 2023-06-16
+Updated: 2023-08-30
 Tag: Math
 Tag: Proofs
 === markdown ===
@@ -16,7 +17,7 @@ To answer this question it must be shown that the following does not hold:
 
 Let $p \in \mathbb{P}$, $p > 3$
 
-Let $z \in \mathbb{Z}$, $z > 0$
+Let $z \in \mathbb{N}$
 
 $p + 1 = z ^ 2$
 
@@ -36,23 +37,17 @@ Proof:
 
 	b. When $z = 2$ then $z - 1 = 2 - 1 = 1$ and $p = 3$
 
-	c. Using induction we can say that when $n > 2$ and $n \in \mathbb{N}$ when $z = n + 1$ then $z - 1 = n + 1 - 1 = n$ and $p = n^2 + 1$
+	c. Then we see that when $n > 2, n \in \mathbb{N}$ and $z = n + 1$ then $z - 1 = n + 1 - 1 = n$ and $p = n(n + 1)$
 
 3. Show that $z + 1 > 1 \iff p > 3$
 
 	This is trivial, as any integer greater than 0 added to one will be greater
 	than one.
 
-4. Show that $z + 1 \ne p$ and $z - 1 \ne p$
+Since neither $(z + 1)$ or $(z - 1)$ can be $1$, this violates the definition
+of a prime number. A prime number only has two factors: itself and the number
+$1$.
 
-	Since both $z + 1 > 1$ and $z - 1 > 1$ then
+This shows that $\forall p \in \mathbb{P} > 3$, $p + 1$ is not a perfect square.
 
-	a. When $z + 1 = p$, $(z + 1)(z - 1) \ge 2p$
-
-	b. When $z - 1 = p$, $(z + 1)(z - 1) \ge 2p$
-
-5. Since it can be shown that neither $(z + 1)$ or $(z - 1)$ are $p$ or $1$,
-   this violates the definition of a prime number. A prime number only has two
-   factors: itself and the number 1.
-
-This shows that $\forall p > 3$, $p + 1$ is not a perfect square.
+QED
