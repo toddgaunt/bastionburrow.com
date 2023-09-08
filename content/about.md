@@ -1,8 +1,4 @@
 Title: About
-Created: 1996-04-19
-Updated: 2020-12-05
-Updated: 2020-12-06
-Updated: 2023-02-23
 Pinned: true
 === markdown ===
 Hello, I'm Todd Gaunt, and this is my website! It is a simple blog for
