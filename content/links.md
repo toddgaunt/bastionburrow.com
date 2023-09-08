@@ -1,5 +1,7 @@
 Title: Links
 Pinned: true
+Created: 2023-10-08
+Updated: 2023-10-08
 === markdown ===
 
 Links to other websites I enjoy visiting are listed here.
