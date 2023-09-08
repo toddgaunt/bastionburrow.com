@@ -31,23 +31,24 @@ Proof:
 
 	$p = (z + 1)(z - 1)$
 
-2. Show that $z - 1 > 1 \iff p > 3$
+2. Show that $z + 1 > 1$
+
+	This is trivial, as any integer greater than 0 added to one will be greater
+	than one.
+
+3. Show that $z - 1 > 1$
 
 	a. When $z = 1$ then $z - 1 = 1 - 1 = 0$ and $p = 0$
 
 	b. When $z = 2$ then $z - 1 = 2 - 1 = 1$ and $p = 3$
 
-	c. Then we see that when $n > 2, n \in \mathbb{N}$ and $z = n + 1$ then $z - 1 = n + 1 - 1 = n$ and $p = n(n + 1)$
+	c. Then we see that when $z = n + 1$, where $n \in \mathbb{N}$ and $n + 1 > 2$, then $z - 1 = n + 1 - 1 = n$ which shows that when $z > 2$, then $z - 1 > 1$
 
-3. Show that $z + 1 > 1 \iff p > 3$
-
-	This is trivial, as any integer greater than 0 added to one will be greater
-	than one.
-
-Since neither $(z + 1)$ or $(z - 1)$ can be $1$, this violates the definition
+Since neither $(z + 1)$ or $(z - 1)$ can be $1$ when $p > 3$, this violates the definition
 of a prime number. A prime number only has two factors: itself and the number
 $1$.
 
-This shows that $\forall p \in \mathbb{P} > 3$, $p + 1$ is not a perfect square.
+This shows that $\forall p \in \mathbb{P} > 3$, the following number $p + 1$ is
+not a perfect square.
 
 QED
