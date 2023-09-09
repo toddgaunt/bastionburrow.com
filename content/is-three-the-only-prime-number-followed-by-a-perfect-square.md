@@ -31,20 +31,16 @@ Proof:
 
 	$p = (z + 1)(z - 1)$
 
-2. Show that $z + 1 > 1$
+2. Show that $z + 1 > 1$ when $z > 2$
 
-	This is trivial, as any integer greater than 0 added to one will be greater
+	This is trivial, as any integer greater than 2 added to one will be greater
 	than one.
 
-3. Show that $z - 1 > 1$
+3. Show that $z - 1 > 1$ when $z > 2$
 
-	a. When $z = 1$ then $z - 1 = 1 - 1 = 0$ and $p = 0$
+	If z = 3, then $z - 1 = 2$ and $2 > 1$.
 
-	b. When $z = 2$ then $z - 1 = 2 - 1 = 1$ and $p = 3$
-
-	c. Then we see that when $z = n + 1$, where $n \in \mathbb{N}$ and $n + 1 > 2$, then $z - 1 = n + 1 - 1 = n$ which shows that when $z > 2$, then $z - 1 > 1$
-
-Since neither $(z + 1)$ or $(z - 1)$ can be $1$ when $p > 3$, this violates the definition
+Since neither $(z + 1)$ or $(z - 1)$ can be $1$ when $z > 2$, this violates the definition
 of a prime number. A prime number only has two factors: itself and the number
 $1$.
 
