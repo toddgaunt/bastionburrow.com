@@ -16,4 +16,6 @@ that droplet.
   Digital Ocean droplet
 - renew-cert.sh: Renews the x.509 certificate issued by Let's Encrypt. This
   should be run every couple of months, but should eventually be replaced with
-  just certbot, which I'm not sure why it isn't working properly.
+  just certbot, which I'm not sure why it isn't working properly. UPDATE:
+  certbot is working properly, however the server doesn't reload the newly
+  issued certificates automatically
