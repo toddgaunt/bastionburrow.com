@@ -10,8 +10,11 @@ The primary deployment is currently hosted on a Fedora Digital Ocean droplet.
 This costs around $5 a month and the scripts in this folder are for managing
 that droplet.
 
-- iptables.sh: configures the firewall for the droplet to allow for port 443 to
-  forward to 4443 which the webserver runs on by default
+- nftables.conf: configures the firewall for the droplet to allow for port 443 to
+  forward to 4443 which the webserver runs on by default. If this file is changed,
+  it can be reloaded on the deploment machine with `nft -f /path/to/nftables.conf`
+  TODO: Have the server automatically reload this file, or change the default config
+  after backing it up.
 - sync.sh: synchronizes these local files with the files that are on the
   Digital Ocean droplet
 - renew-cert.sh: Renews the x.509 certificate issued by Let's Encrypt. This
